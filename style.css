@@ -1,0 +1,50 @@
+h1,h2 {
+	color:red;
+	background-color:#ff9999;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 50px;
+	font-style: oblique;
+	
+}
+.text-center{
+	text-aling:center;
+}
+#rounded-img{
+	border-radius:50px;
+	
+}
+h3{
+	color:blue;
+}
+th, td {
+  padding: 20px;
+}
+.color_table{
+	border-collapse: separate;
+  	border-spacing: 15px;
+	text-aling:center;
+	color:yellow;
+	background-color: black;
+	font-size: 25px;
+}
+.color_td_tab{
+	border-collapse: separate;
+  	border-spacing: 15px;
+	font-size: 16px;
+	text-aling: left;
+	color: blue;
+	background-color:yellow;
+}
+#color_page {
+	 background-color: lightblue;
+}
+.lista{
+	color: green;
+	font-style: oblique;
+	font-size: 15px;
+
+}
+h6{
+	color:red;
+
+}
